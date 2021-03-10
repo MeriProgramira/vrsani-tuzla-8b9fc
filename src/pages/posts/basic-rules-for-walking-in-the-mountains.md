@@ -20,8 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+       Jezero u blizini Planinarskog doma Vršani
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
