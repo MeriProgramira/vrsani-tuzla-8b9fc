@@ -1,9 +1,9 @@
 ---
 title: Planinarski dom "Djed Stjepan"
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: |-
+  Stjepan je jedan od najstarijih članova Planinarskog društva "Konjuh" 
+  koji je veliki dio svog života posvetio izgradnji i sređivanju 
+  planinarske kuće na Vršanima.
 img_path: images/style-guide.jpg
 seo:
   title: Theme Style Guide
