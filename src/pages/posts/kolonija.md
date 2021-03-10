@@ -37,7 +37,7 @@ seo:
       value: >-
         Svake godine na Vršanima se održava etno slikarska kolonija
     - name: 'twitter:image'
-      value: images/10.jpg
+      value: images/vrsani-kolonija.jpg
       relativeUrl: true
 template: post
 ---
