@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: Hvala Vam!
 template: page
 ---
 
