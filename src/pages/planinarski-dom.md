@@ -5,7 +5,7 @@ subtitle: |-
   koji je veliki dio svog života posvetio izgradnji i sređivanju 
   planinarske kuće na Vršanima.
 seo:
-  title: ''
+  title: Planinarski dom "Djed Stjepan"
   description: ''
   robots: []
   extra: []
