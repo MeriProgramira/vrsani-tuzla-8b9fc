@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: Jezero u blizini Planinarskog doma Vršani
     - name: 'twitter:description'
       value: >-
         Hiking refers to difficult walking through dense forest, undergrowth, or
