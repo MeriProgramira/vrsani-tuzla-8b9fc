@@ -42,4 +42,4 @@ Ovih dana završena je prva i najzahtjevnija faza radova na mektebu.
 
 Uporedo sa izgradnjom mekteba radi se i na putnoj infrastrukturi koja je
  nažalost bila u veoma lošem stanju.
- 
+ <a></a>
