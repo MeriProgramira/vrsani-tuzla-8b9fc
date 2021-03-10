@@ -23,9 +23,7 @@ seo:
       value: Slikarska kolonija Vršani
       keyName: property
     - name: 'og:description'
-      value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+      value: Svake godine na Vršanima se održava etno slikarska kolonija
       keyName: property
     - name: 'og:image'
       value: images/vrsani-kolonija.jpg
