@@ -1,7 +1,11 @@
 ---
 title: Vršani – beharanje boja
 subtitle: Počela 12. Etno likovna kolonija “Vršani”
-excerpt: 12. po redu etno slikarska kolonija
+excerpt: |-
+  “Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije
+  koja je počela na lokaciji harem renoviranog mekteba Vršani u blizini
+  planinskog doma na Vršanima a koju organizujeUdruženje građana
+  umjetnička likovna kolonija Vršani.
 date: '2020-09-20'
 thumb_img_path: images/vrsani-kolonija.jpg
 thumb_img_alt: A red fox sitting on a meadow
