@@ -28,8 +28,7 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Stjepan je jedan od najstarijih članova Planinarskog društva "Konjuh" 
     - name: 'twitter:image'
       value: images/style-guide.jpg
       relativeUrl: true
