@@ -2,7 +2,6 @@
 title: Hvala Vam!
 template: page
 ---
+Hvala što ste nas kontaktirali! Javiti ćemo Vam se uskoro.
 
-Thank you for contacting me! I will get back in touch with you soon.
-
-**Have a great day!**
+**Želimo vam lijep dan.**
