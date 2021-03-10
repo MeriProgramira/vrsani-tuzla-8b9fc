@@ -7,7 +7,7 @@ form_fields:
   - input_type: text
     name: name
     label: Ime
-    default_value: Your name
+    default_value: Vaše ime
     is_required: true
   - input_type: email
     name: email
