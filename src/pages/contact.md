@@ -31,7 +31,7 @@ form_fields:
     label: Razumijem da se informacije date u formi čuvaju u svrhu kontakta.
 submit_label: Pošalji poruku
 seo:
-  title: Vrsani |
+  title: Vrsani | Kontakt
   description: This is the contact page
   extra:
     - name: 'og:type'
