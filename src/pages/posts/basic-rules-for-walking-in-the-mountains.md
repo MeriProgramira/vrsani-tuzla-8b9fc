@@ -8,7 +8,7 @@ thumb_img_path: images/lake.jpg
 thumb_img_alt: jezero Vršani
 content_img_path: images/planinarski_dom.jpg
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: Jezero Vršani
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
