@@ -1,8 +1,6 @@
 ---
 title: Počela 12. Etno likovna kolonija “Vršani”
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: Počela 12. Etno likovna kolonija “Vršani”
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
