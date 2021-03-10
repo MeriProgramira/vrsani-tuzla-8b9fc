@@ -16,3 +16,5 @@ Jedan od najstarijih ali sigurno i najdražih članova Planinarskog društva "Ko
 
 
 
+Planininska kuća na Vršanima nosi upravo njegovo ime.
+
