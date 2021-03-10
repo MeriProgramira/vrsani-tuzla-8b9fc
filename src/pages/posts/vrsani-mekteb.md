@@ -9,7 +9,11 @@ seo:
   title: Vrsani mekteb
   description: Mekteb u naselju Vršani uskoro u novom ruhu
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/mek1.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/mek1.jpg
