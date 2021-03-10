@@ -49,4 +49,4 @@ Ovih dana završena je prva i najzahtjevnija faza radova na mektebu.
 
 Uporedo sa izgradnjom mekteba radi se i na putnoj infrastrukturi koja je
 nažalost bila u veoma lošem stanju.
-<a href="https://muftijstvotz.ba/tuzla-mekteb-u-naselju-vrsani-uskoro-u-novom-ruhu/" target="_blank" rel="">(izvor)</a>
+<a href="https://muftijstvotz.ba/tuzla-mekteb-u-naselju-vrsani-uskoro-u-novom-ruhu/" target="_blank" rel="noreferrer ">(izvor)</a>
