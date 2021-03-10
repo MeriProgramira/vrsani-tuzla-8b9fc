@@ -28,7 +28,7 @@ seo:
         sanctuaries.
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: images/vrsani-kolonija.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
