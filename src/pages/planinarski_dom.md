@@ -7,7 +7,7 @@ subtitle: |-
 img_path: images/DinoStjepan1.jpg
 seo:
   title: Planinarski dom "Djed Stjepan"
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Stjepan je jedan od najstarijih članova Planinarskog društva "Konjuh" 
   extra:
     - name: 'og:type'
       value: website
