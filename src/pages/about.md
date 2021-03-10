@@ -13,7 +13,7 @@ seo:
       value: Vrsani
       keyName: property
     - name: 'og:description'
-      value: A page about me and my work
+      value: Netaknuta priroda na samo 10 min od Tuzle
       keyName: property
     - name: 'og:image'
       value: images/vrsani.jpg
