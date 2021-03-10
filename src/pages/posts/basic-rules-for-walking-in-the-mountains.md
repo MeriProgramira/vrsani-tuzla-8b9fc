@@ -6,7 +6,7 @@ excerpt: >-
 date: '2019-04-09'
 thumb_img_path: images/lake.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
-content_img_path: images/1.jpg
+content_img_path: images/planinarski_dom.jpg
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
