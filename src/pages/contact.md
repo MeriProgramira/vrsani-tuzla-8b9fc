@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Ostanimo u kontaktu
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
