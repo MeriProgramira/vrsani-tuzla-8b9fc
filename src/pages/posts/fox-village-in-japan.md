@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: Počela 12. Etno likovna kolonija “Vršani”
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
