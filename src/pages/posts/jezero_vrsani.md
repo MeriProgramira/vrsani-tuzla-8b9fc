@@ -9,8 +9,7 @@ thumb_img_alt: jezero Vršani
 content_img_path: images/planinarski_dom.jpg
 seo:
   title: Jezero Vršani
-  description: >-
-   Jezero u blizini Planinarskog doma Vršani
+  description: Jezero u blizini Planinarskog doma Vršani
   extra:
     - name: 'og:type'
       value: article
@@ -19,11 +18,10 @@ seo:
       value: Basic Rules For Walking In The Mountains
       keyName: property
     - name: 'og:description'
-      value: >-
-       Jezero u blizini Planinarskog doma Vršani
+      value: Jezero u blizini Planinarskog doma Vršani
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/lake.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -31,8 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Jezero u blizini Planinarskog doma Vršani
     - name: 'twitter:description'
-      value: >-
-        Jezero u blizini Planinarskog doma Vršani
+      value: Jezero u blizini Planinarskog doma Vršani
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
