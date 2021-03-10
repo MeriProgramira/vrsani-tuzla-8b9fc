@@ -7,7 +7,7 @@ excerpt: Mekteb u naselju Vršani uskoro u novom ruhu
 hide_header: false
 seo:
   title: 'Vrsani mekteb'
-  description: ''
+  description: 'Mekteb u naselju Vršani uskoro u novom ruhu'
   robots: []
   extra: []
   type: stackbit_page_meta
