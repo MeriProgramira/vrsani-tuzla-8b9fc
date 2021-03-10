@@ -13,9 +13,8 @@ thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/kolonija1.jpg
 seo:
   title: Vrsani - slikarska kolonija
-  description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+  description: |
+    Svake godine u 
   extra:
     - name: 'og:type'
       value: article
