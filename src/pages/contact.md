@@ -21,7 +21,7 @@ form_fields:
     options:
       - Greška na stranici
       - Sponzorstvo
-      - Other
+      - Drugo
   - input_type: textarea
     name: message
     label: Poruka
