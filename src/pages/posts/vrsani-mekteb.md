@@ -1,6 +1,6 @@
 ---
 title: Vršani mekteb
-subtitle: lorem-ipsum
+subtitle: Mekteb u naselju Vršani uskoro u novom ruhu
 date: '2021-03-10'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
