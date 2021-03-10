@@ -14,6 +14,10 @@ seo:
       value: images/mek1.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Vrsani mekteb
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/mek1.jpg
