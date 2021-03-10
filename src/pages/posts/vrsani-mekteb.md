@@ -2,7 +2,7 @@
 title: Vršani mekteb
 subtitle: Mekteb u naselju Vršani uskoro u novom ruhu
 date: '2021-03-10'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Vršani mekteb
 excerpt: lorem-ipsum
 hide_header: false
 seo:
