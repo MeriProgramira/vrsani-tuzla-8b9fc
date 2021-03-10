@@ -16,7 +16,7 @@ seo:
       value: Netaknuta priroda na samo 10 min od Tuzle
       keyName: property
     - name: 'og:image'
-      value: images/vrsani.jpg
+      value: images/vrsani2-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
