@@ -18,7 +18,7 @@ seo:
         netaknute prirode
       keyName: property
     - name: 'og:image'
-      value: images/planinarski-dom.jpg
+      value: images/planinarski_dom.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
