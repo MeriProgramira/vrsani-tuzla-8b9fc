@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-![Hiking](/images/2.jpg)
+![Hiking](/images/lake.jpg)
 
 Jezero Vršani se nalazilo u blizini Tuzle.
 Nalazilo…
