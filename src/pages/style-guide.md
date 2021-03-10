@@ -16,9 +16,7 @@ seo:
       value: 'Djed Stjepan - planinarski dom Vršani '
       keyName: property
     - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+      value: Djed Stjepan - planinarski dom Vršani Tuzla
       keyName: property
     - name: 'og:image'
       value: images/DinoStjepan1.jpg
