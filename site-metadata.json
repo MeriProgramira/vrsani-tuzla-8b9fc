@@ -9,7 +9,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "HomeP",
+                "label": "Početna",
                 "url": "/",
                 "style": "link"
             },
