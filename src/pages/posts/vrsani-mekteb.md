@@ -37,6 +37,8 @@ sa dinamikom radova na obnovi mekteba.
 Prošle godine formiran je građevinski odbor za renoviranje ovog 
 mekteba, te se uz podršku Medžlisa Tuzla počelo sa pripremnim radovima. 
 Ovih dana završena je prva i najzahtjevnija faza radova na mektebu. 
+
 ![Mekteb_Vrsani](/images/mek1.jpg)
+
 Uporedo sa izgradnjom mekteba radi se i na putnoj infrastrukturi koja je
  nažalost bila u veoma lošem stanju.
