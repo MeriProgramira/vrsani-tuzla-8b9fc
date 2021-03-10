@@ -6,7 +6,7 @@ subtitle: |-
   planinarske kuće na Vršanima.
 img_path: images/DinoStjepan1.jpg
 seo:
-  title: Theme Style Guide
+  title: Planinarski dom "Djed Stjepan"
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
