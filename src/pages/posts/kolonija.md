@@ -14,7 +14,7 @@ content_img_path: images/kolonija1.jpg
 seo:
   title: Vrsani - slikarska kolonija
   description: |
-    Svake godine u 
+    Svake godine na Vr[anima se odr\ava etno slikarska kolonija
   extra:
     - name: 'og:type'
       value: article
