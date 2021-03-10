@@ -21,7 +21,7 @@ seo:
         content
       keyName: property
     - name: 'og:image'
-      value: images/style-guide.jpg
+      value: images/DinoStjepan1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
