@@ -2,7 +2,7 @@
 title: Vrsani
 template: page
 seo:
-  title: ''
+  title: 'Hvala '
   description: ''
   robots: []
   extra: []
