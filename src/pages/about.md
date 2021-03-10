@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: O Vršanima
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
 seo:
