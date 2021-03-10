@@ -47,7 +47,8 @@ Bilo…do 2008. godine
 
 
 
-> Bilo je to preljepo jezero i uživali smo u šetnjama od planinarskog doma do jezera. ― Meri
+> Bilo je to preljepo jezero i uživali smo u šetnjama od planinarskog doma do jezera. 
+― Meri
 
 Nadamo se da će se u budućnosti opet izgraditi jezero sa odgovarajućom šetnicom.
 
