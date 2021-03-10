@@ -18,6 +18,10 @@ seo:
       value: Vrsani mekteb
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: Mekteb u naselju Vršani uskoro u novom ruhu
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/mek1.jpg
