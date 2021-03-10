@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Vrsani
     - name: 'twitter:description'
-      value: A page about me and my work
+      value: Netaknuta priroda na samo 10 min od Tuzle
     - name: 'twitter:image'
       value: images/vrsani2-1.jpg
       relativeUrl: true
