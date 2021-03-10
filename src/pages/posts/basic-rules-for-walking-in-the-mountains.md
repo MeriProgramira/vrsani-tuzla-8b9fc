@@ -32,8 +32,7 @@ seo:
       value: Jezero u blizini Planinarskog doma Vršani
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        Jezero u blizini Planinarskog doma Vršani
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
