@@ -28,7 +28,7 @@ form_fields:
     default_value: Vaša poruka
   - input_type: checkbox
     name: consent
-    label: Razumijemo da se informacije date u formi čuvaju u svrhu kontakta.
+    label: Razumijem da se informacije date u formi čuvaju u svrhu kontakta.
 submit_label: Pošalji poruku
 seo:
   title: Vrsani | Kontakt
