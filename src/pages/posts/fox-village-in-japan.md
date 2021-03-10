@@ -1,5 +1,5 @@
 ---
-title: Počela 12. Etno likovna kolonija “Vršani”
+title: Vršani – beharanje boja
 subtitle: Počela 12. Etno likovna kolonija “Vršani”
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
