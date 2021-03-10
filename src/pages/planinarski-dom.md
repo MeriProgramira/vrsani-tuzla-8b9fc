@@ -21,7 +21,7 @@ template: page
 ---
 Jedan od najstarijih ali sigurno i najdražih članova Planinarskog društva "Konjuh" je **djed Stjepan**. Veliki zaljubljenik u prirodu i planine, dao je nemjerljiv doprinos "Konjuhu".
 
-
+![Djed stjepan](/images/stjepan.jpg)
 
 Planininska kuća na Vršanima nosi upravo njegovo ime.
 
