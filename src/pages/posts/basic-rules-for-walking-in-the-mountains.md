@@ -10,8 +10,7 @@ content_img_path: images/planinarski_dom.jpg
 seo:
   title: Jezero Vršani
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+   Jezero n
   extra:
     - name: 'og:type'
       value: article
