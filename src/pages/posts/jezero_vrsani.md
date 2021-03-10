@@ -3,7 +3,7 @@ title: Jezero Vršani
 excerpt: >-
   Nekada preljepo jezero u neposrednoj blizini centra tuzle okruženo gustom
   šumom, te pogodno za pecanje sada je samo uspomena starih posjetilaca Vršana.
-date: '2019-04-09'
+date: '2020-04-09'
 thumb_img_path: images/lake.jpg
 thumb_img_alt: jezero Vršani
 content_img_path: images/planinarski_dom.jpg
