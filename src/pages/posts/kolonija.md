@@ -45,7 +45,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-
+![Hiking](/images/lake.jpg)
 “Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije
 koja je počela na lokaciji harem renoviranog mekteba Vršani u blizini
 planinskog doma na Vršanima a koju organizujeUdruženje građana
