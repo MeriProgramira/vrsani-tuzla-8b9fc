@@ -4,7 +4,7 @@ subtitle: netaknuta priroda samo 10 minuta od centra Tuzle
 img_path: images/vrsani2-1.jpg
 seo:
   title: O Vršanima
-  description: A page about me and my work
+  description: Vršani izletište u blizini Tuzle
   extra:
     - name: 'og:type'
       value: website
