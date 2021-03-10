@@ -11,7 +11,11 @@ seo:
     je veliki dio svog života posvetio izgradnji i sređivanju planinarske kuće
     na Vršanima.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/stjepan.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: page
 ---
