@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Nastavi čitati
 seo:
   title: Vršani Tuzla
-  description: The preview of the Fjord theme
+  description: Izletište u blizini Tuzle
   extra:
     - name: 'og:type'
       value: website
