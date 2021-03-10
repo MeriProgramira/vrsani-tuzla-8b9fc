@@ -15,7 +15,7 @@ form_fields:
     default_value: Vaša email adresa
     is_required: true
   - input_type: select
-    name: subject
+    name: predmet poruke
     label: pred
     default_value: Please select
     options:
