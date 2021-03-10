@@ -29,7 +29,7 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: Razumijem da se informacije date u formi čuvaju u svrhu kontakta.
-submit_label: Pošalji
+submit_label: Pošalji poruku
 seo:
   title: Get in Touch
   description: This is the contact page
