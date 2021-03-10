@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fox Village In Japan
+      value: Vrsani slikars
     - name: 'twitter:description'
       value: >-
         Svake godine na Vršanima se održava etno slikarska kolonija
