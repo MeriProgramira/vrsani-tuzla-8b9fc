@@ -6,12 +6,13 @@ thumb_img_alt: Vršani mekteb
 excerpt: Mekteb u naselju Vršani uskoro u novom ruhu
 hide_header: false
 seo:
-  title: 'Vrsani mekteb'
-  description: 'Mekteb u naselju Vršani uskoro u novom ruhu'
+  title: Vrsani mekteb
+  description: Mekteb u naselju Vršani uskoro u novom ruhu
   robots: []
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_img_path: images/mek1.jpg
 ---
 ![Mekteb_Vrsani](/images/mek1.jpg)
 
