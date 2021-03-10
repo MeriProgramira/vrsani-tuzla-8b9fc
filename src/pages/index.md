@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Nastavi čitati
 seo:
-  title: Stackbit Fjord Theme
+  title: Vršani Tuzla
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'
