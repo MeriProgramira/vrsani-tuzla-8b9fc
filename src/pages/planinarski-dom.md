@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Planinarski dom "Djed Stjepan"
 subtitle: lorem-ipsum
 seo:
   title: ''
