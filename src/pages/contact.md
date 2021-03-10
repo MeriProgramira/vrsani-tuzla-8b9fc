@@ -19,7 +19,7 @@ form_fields:
     label: predmet poruke
     default_value: Molimo odaberite
     options:
-      - Error on the site
+      - Greška na stranici
       - Sponsorship
       - Other
   - input_type: textarea
