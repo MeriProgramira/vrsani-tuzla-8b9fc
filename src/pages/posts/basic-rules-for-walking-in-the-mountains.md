@@ -10,7 +10,7 @@ content_img_path: images/planinarski_dom.jpg
 seo:
   title: Jezero Vršani
   description: >-
-   Jezero n
+   Jezero u blizini Planinarskog doma Vršani
   extra:
     - name: 'og:type'
       value: article
