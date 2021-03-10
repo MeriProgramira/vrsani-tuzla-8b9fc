@@ -39,7 +39,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-![Slikarska_kolonija](/images/vrsanikolonija.jpg)
+![Slikarska_kolonija](/images/vrsani-kolonija.jpg)
 
 “Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije
 koja je počela na lokaciji harem renoviranog mekteba Vršani u blizini
