@@ -35,8 +35,7 @@ seo:
       value: Fox Village In Japan
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+        Svake godine na Vršanima se održava etno slikarska kolonija
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
