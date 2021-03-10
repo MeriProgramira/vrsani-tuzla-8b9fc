@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: predmet poruke
     label: predmet poruke
-    default_value: Please select
+    default_value: Molimo odaberite
     options:
       - Error on the site
       - Sponsorship
