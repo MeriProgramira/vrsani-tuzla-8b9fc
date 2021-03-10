@@ -30,7 +30,7 @@ seo:
       value: >-
         Stjepan je jedan od najstarijih članova Planinarskog društva "Konjuh" 
     - name: 'twitter:image'
-      value: images/style-guide.jpg
+      value: images/DinoStjepan1.jpg
       relativeUrl: true
 template: page
 ---
