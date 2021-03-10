@@ -13,7 +13,9 @@ seo:
       value: Izletište Vršani Tuzla
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Izletište Vršani Tuzla samo 10 min od centra Tuzle, oaza mira i
+        netaknute prirode
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
