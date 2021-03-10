@@ -2,7 +2,7 @@
 title: Vrsani
 template: page
 seo:
-  title: 'Vrsani |Hvala '
+  title: 'Vrsani | Hvala '
   description: 'Hvala što ste nas kontaktirali! Javiti ćemo Vam se uskoro.'
   robots: []
   extra: []
