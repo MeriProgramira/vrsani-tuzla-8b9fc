@@ -20,7 +20,7 @@ form_fields:
     default_value: Molimo odaberite
     options:
       - Greška na stranici
-      - Spon
+      - Sponzorstvo
       - Other
   - input_type: textarea
     name: message
