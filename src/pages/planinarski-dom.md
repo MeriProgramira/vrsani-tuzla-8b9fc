@@ -6,7 +6,10 @@ subtitle: |-
   planinarske kuće na Vršanima.
 seo:
   title: Planinarski dom "Djed Stjepan"
-  description: ''
+  description: >-
+    Stjepan je jedan od najstarijih članova Planinarskog društva "Konjuh" koji
+    je veliki dio svog života posvetio izgradnji i sređivanju planinarske kuće
+    na Vršanima.
   robots: []
   extra: []
   type: stackbit_page_meta
