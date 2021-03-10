@@ -6,7 +6,7 @@ thumb_img_alt: Vršani mekteb
 excerpt: Mekteb u naselju Vršani uskoro u novom ruhu
 hide_header: false
 seo:
-  title: ''
+  title: 'Vrsani mekteb'
   description: ''
   robots: []
   extra: []
