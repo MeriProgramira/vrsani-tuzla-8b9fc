@@ -16,7 +16,7 @@ form_fields:
     is_required: true
   - input_type: select
     name: predmet poruke
-    label: pred
+    label: predmet poruke
     default_value: Please select
     options:
       - Error on the site
