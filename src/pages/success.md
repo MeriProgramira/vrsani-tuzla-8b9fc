@@ -1,5 +1,5 @@
 ---
-title: Hvala Vam!
+title: Vrsani
 template: page
 seo:
   title: ''
