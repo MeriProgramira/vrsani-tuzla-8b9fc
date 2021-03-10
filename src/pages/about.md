@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Vrsani
+      value: Vrsani izletiste
       keyName: property
     - name: 'og:description'
       value: Netaknuta priroda na samo 10 min od Tuzle
