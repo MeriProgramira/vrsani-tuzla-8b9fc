@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-![Hiking](/images/lake.jpg)
+![Mekteb](/images/lake.jpg)
 
 Glavni imam Medžlisa IZ Tuzla hafiz Ahmed-ef. Huskanović, predsjednik
  Izvršnog odbora Medžlisa Tuzla prof. dr. Amir Karić u pratnji referenta
