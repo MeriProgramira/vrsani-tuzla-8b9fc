@@ -3,7 +3,7 @@ title: Vrsani
 template: page
 seo:
   title: 'Hvala '
-  description: ''
+  description: 'Hvala što ste nas kontaktirali! Javiti ćemo Vam se uskoro.'
   robots: []
   extra: []
   type: stackbit_page_meta
