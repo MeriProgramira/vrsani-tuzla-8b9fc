@@ -12,9 +12,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+Jedan od najstarijih ali sigurno i najdražih članova Planinarskog društva "Konjuh" je **djed Stjepan**. Veliki zaljubljenik u prirodu i planine, dao je nemjerljiv doprinos "Konjuhu".
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
