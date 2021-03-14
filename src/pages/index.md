@@ -29,7 +29,7 @@ seo:
       value: Izletište Vršani Tuzla samo 10 min od centra Tuzle, oaza mira i
         netaknute prirode
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: images/planinarski_dom.jpg
       relativeUrl: true
 template: home
 ---
