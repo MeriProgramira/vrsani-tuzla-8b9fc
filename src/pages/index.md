@@ -26,7 +26,8 @@ seo:
     - name: 'twitter:title'
       value: Izletište Vršani Tuzla
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: Izletište Vršani Tuzla samo 10 min od centra Tuzle, oaza mira i
+        netaknute prirode
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
