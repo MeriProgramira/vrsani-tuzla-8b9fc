@@ -4,7 +4,7 @@ subtitle: Počela 12. Etno likovna kolonija “Vršani”
 excerpt: |-
   “Vršani – beharanje boja” naziv je Dvanaeste Etno Likovne Kolonije
   koja je počela na lokaciji harem renoviranog mekteba Vršani u blizini
-  planinskog doma na Vršanima a koju organizujeUdruženje građana
+  planinskog doma na Vršanima a koju organizuje Udruženje građana
   umjetnička likovna kolonija Vršani.
 date: '2020-09-20'
 thumb_img_path: images/vrsani-kolonija.jpg
