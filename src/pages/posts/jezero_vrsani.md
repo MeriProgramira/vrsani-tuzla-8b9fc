@@ -47,5 +47,5 @@ Bilo…do 2008. godine
 > Bilo je to preljepo jezero i uživali smo u šetnjama od planinarskog doma do jezera. 
 <cite>― Meri</cite>
 
-Nadamo se da će se u budućnosti opet izgraditi jezero sa odgovarajućom šetnicom a mo.
+Nadamo se da će se u budućnosti opet izgraditi jezero sa odgovarajućom šetnicom a možda i mjesto za roštiljanje.
 
