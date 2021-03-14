@@ -37,7 +37,7 @@ export default class Home extends React.Component {
                               <h2 className="post-title"><Link to={withPrefix(_.get(post, 'url', null))} rel="bookmark">{_.get(post, 'frontmatter.title', null)}</Link></h2>
                               <div className="post-meta">
                                  <time className="published"
-                                  dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time>
+                                  dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%b %d, %Y')}</time>
                               </div>
                             </header>
                             {_.get(post, 'frontmatter.thumb_img_path', null) && (
