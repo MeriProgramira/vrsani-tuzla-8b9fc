@@ -1,7 +1,7 @@
 # ✨ vrsani-tuzla ✨
 
 <img src="https://themes.stackbit.com/images/fjord-demo-1024x768.png" width="600">
-![Vrsani Tuzla](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+![Vrsani Tuzla](https://github.com/MeriProgramira/vrsani-tuzla-8b9fc/blob/master/static/images/planinarski_dom.jpg)
 <a href="https://vrsani-tuzla.netlify.app/" rel="noreferrer noopener" target="_blank">Vrsani Tuzla</a>
 
 This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
