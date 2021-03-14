@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: Jezero u blizini Planinarskog doma Vršani
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/lake.jpg
       relativeUrl: true
 template: post
 ---
