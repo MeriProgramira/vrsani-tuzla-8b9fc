@@ -1,6 +1,6 @@
 ---
 title: Proljeće na Vršanima 2021
-subtitle: preljep prvoaprilski dan na Vršanima
+subtitle: prelijep prvoaprilski dan na Vršanima
 date: '2021-04-03'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
