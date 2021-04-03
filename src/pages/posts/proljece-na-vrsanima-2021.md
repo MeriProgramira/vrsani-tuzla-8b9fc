@@ -13,9 +13,9 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-## Lorem ipsum
+## Šetnja do Vršana
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Iako su svuda oko nas sive, crne i uglavnom vijesti u nekim tamnim bojama, kratak izlet do Vršana nam je popravio raspoloženje. Preljep sunčan dan, priroda se budi i sve izgleda normalno. Nema maski (istina nema ni ljudi) i čak smo uspjeli par penzića iznenaditi prvoaprilskom šalom.
 
-- Lorem ipsum
-- dolor sit amet
+
+
