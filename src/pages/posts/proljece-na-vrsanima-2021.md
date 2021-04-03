@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Proljeće na Vršanima 2021
 subtitle: lorem-ipsum
 date: '2021-04-03'
 thumb_img_alt: lorem-ipsum
