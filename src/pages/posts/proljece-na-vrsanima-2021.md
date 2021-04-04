@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_img_path: images/zvoncici.jpg
 ---
 ## Šetnja do Vršana
 
