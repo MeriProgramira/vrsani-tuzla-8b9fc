@@ -6,7 +6,7 @@ thumb_img_alt: priroda se budi
 excerpt: prelijep prvoaprilski dan u prirodi
 hide_header: false
 seo:
-  title: proljece2021
+  title: Vršani proljece 2021
   description: prelijep proljecni dan na Vrsanima
   robots: []
   extra:
@@ -32,3 +32,9 @@ content_img_path: images/20210401_105751.jpg
 Iako su svuda oko nas sive, crne i uglavnom vijesti u nekim tamnim bojama, kratak izlet do Vršana nam je popravio raspoloženje. Preljep sunčan dan, priroda se budi i sve izgleda normalno. Nema maski (istina nema ni ljudi) i čak smo uspjeli par penzića iznenaditi prvoaprilskom šalom. Kratki bijeg od svakodnevnice u kojem smo uživali.
 
 ![](/images/robust-saturn.jpg)
+
+![](/images/20210401\_105816.jpg)
+
+A moglo se nabrati i srijemoša.
+
+![](/images/srijemos.jpg)
