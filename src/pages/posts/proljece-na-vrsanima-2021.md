@@ -18,6 +18,10 @@ seo:
       value: proljece Vrsani 2021
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/zvoncici.jpg
