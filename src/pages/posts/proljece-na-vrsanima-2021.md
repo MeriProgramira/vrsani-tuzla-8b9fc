@@ -7,7 +7,7 @@ excerpt: prelijep prvoaprilski dan u prirodi
 hide_header: false
 seo:
   title: proljece2021
-  description: ''
+  description: prelijep proljecni dan na Vrsanima
   robots: []
   extra: []
   type: stackbit_page_meta
