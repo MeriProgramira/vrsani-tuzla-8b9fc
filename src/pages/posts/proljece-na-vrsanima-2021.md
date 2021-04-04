@@ -33,4 +33,6 @@ Iako su svuda oko nas sive, crne i uglavnom vijesti u nekim tamnim bojama, krata
 
 ![](/images/robust-saturn.jpg)
 
-![](/images/20210401\_125403.jpg)
+A moglo se nabrati i srijemoša.
+
+![](/images/srijemos.jpg)
