@@ -14,6 +14,10 @@ seo:
       value: /images/successful-hedgehog.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: proljece Vrsani 2021
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/zvoncici.jpg
