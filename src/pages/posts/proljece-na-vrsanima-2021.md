@@ -6,7 +6,7 @@ thumb_img_alt: priroda se budi
 excerpt: prelijep prvoaprilski dan u prirodi
 hide_header: false
 seo:
-  title: ''
+  title: proljece2021
   description: ''
   robots: []
   extra: []
