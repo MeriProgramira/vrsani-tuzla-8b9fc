@@ -6,7 +6,7 @@ thumb_img_alt: priroda se budi
 excerpt: prelijep prvoaprilski dan u prirodi
 hide_header: false
 seo:
-  title: proljece2021
+  title: Vršani proljece 2021
   description: prelijep proljecni dan na Vrsanima
   robots: []
   extra:
