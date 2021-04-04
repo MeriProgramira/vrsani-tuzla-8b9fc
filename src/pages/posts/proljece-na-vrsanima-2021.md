@@ -9,7 +9,11 @@ seo:
   title: proljece2021
   description: prelijep proljecni dan na Vrsanima
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/successful-hedgehog.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/zvoncici.jpg
