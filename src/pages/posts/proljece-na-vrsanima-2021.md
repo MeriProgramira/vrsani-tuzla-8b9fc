@@ -17,6 +17,5 @@ content_img_path: images/20210401_105751.jpg
 ---
 ## Šetnja do Vršana
 
-Iako su svuda oko nas sive, crne i uglavnom vijesti u nekim tamnim bojama, kratak izlet do Vršana nam je popravio raspoloženje. Preljep sunčan dan, priroda se budi i sve izgleda normalno. Nema maski (istina nema ni ljudi) i čak smo uspjeli par penzića iznenaditi prvoaprilskom šalom.
+Iako su svuda oko nas sive, crne i uglavnom vijesti u nekim tamnim bojama, kratak izlet do Vršana nam je popravio raspoloženje. Preljep sunčan dan, priroda se budi i sve izgleda normalno. Nema maski (istina nema ni ljudi) i čak smo uspjeli par penzića iznenaditi prvoaprilskom šalom.![](/images/robust-saturn.jpg)
 
-![](/images/20210401\_105715.jpg)
