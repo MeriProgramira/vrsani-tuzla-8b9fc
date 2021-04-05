@@ -36,6 +36,6 @@ Iako su svuda oko nas sive, crne i uglavnom vijesti u nekim tamnim bojama, krata
 
 ![](/images/20210401_105816.jpg)
 
-A moglo se nabrati i srijemoša!
+A moglo se nabrati i srijemoša! Odličan u kombinaciji sa zelenom salatom.
 
 ![](/images/srijemos.jpg)
