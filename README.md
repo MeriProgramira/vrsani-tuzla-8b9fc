@@ -4,7 +4,7 @@
 
 <a href="https://vrsani-tuzla.netlify.app/" target="_blank" rel="noreferrer noopener">live preview</a>
 
-This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+This is a [Gatsby](https://gatsbyjs.com) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute!
 
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit/stackbit-theme-fjord&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
 
@@ -37,21 +37,19 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 
 ## Develop Locally
 
-1. Install [Node.js and npm](https://nodejs.org/en/)
+1.  Install [Node.js and npm](https://nodejs.org/en/)
 
-1. Install npm dependencies:
+1.  Install npm dependencies:
 
         npm install
 
-
-
-1. Start the Gatsby local development server:
+1.  Start the Gatsby local development server:
 
         npm run develop
 
-1. Open [http://localhost:8000/](http://localhost:8000/) in the browser
+1.  Open [http://localhost:8000/](http://localhost:8000/) in the browser
 
-1. 🎉
+1.  🎉
 
 ## Editing Content
 
