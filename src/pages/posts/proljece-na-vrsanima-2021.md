@@ -25,7 +25,6 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/knowledgeable-aspen.jpg
-content_img_path: images/20210401_105751.jpg
 ---
 ## Šetnja do Vršana
 
